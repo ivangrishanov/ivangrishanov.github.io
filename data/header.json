@@ -1,0 +1,17 @@
+{
+    "logo": "Ivan <br>Grishanov",
+    "nav": [
+        {
+            "name": "Проекты",
+            "url": "/"
+        },
+        {
+            "name": "Обо мне",
+            "url": "/about"
+        },
+        {
+            "name": "Контакты",
+            "url": "/contacts"
+        }
+    ]
+}

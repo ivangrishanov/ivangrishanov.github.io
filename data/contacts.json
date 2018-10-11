@@ -1,0 +1,14 @@
+{
+    "description": [
+        "Республика Беларусь, г. Витебск",
+        "пр-т Московский, 55Л, оф. 303",
+        "ООО «БелРоссСтройПроект»",
+        "<a class=\"link\" href=\"tel:+375292984885\">+375 29 298 48 85</a>",
+        "<a class=\"link\" href=\"mailto:ivan.grishanov.vtb@gmail.com\">ivan.grishanov.vtb@gmail.com</a>"
+    ],
+    "map": {
+        "lat": 55.173509,
+        "lng": 30.247515,
+        "zoom": 16
+    }
+}
